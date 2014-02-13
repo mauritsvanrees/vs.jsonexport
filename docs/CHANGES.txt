@@ -1,4 +1,4 @@
-Changelog pareto.jsonexport
+Changelog vs.jsonexport
 ===========================
 
 0.1

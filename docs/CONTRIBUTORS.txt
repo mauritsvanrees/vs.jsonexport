@@ -1,5 +1,5 @@
 Contributors
 ============
 
-All code is written and maintained by Guido Wesdorp for Pareto
-(mailto:guido.wesdorp@pareto.nl).
+All code is written and maintained by Guido Wesdorp for Virtual Sciences
+(mailto:guido.wesdorp@vs.nl).

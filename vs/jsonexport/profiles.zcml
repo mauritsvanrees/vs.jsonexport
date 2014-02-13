@@ -1,13 +1,13 @@
 <configure
     xmlns="http://namespaces.zope.org/zope"
     xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
-    i18n_domain="pareto.jsonexport">
+    i18n_domain="vs.jsonexport">
 
   <genericsetup:registerProfile
       name="default"
-      title="Pareto JSON export"
+      title="Virtual Sciences JSON export"
       directory="profiles/default"
-      description="Extension profile for the &quot;pareto.jsonexport&quot; product."
+      description="Extension profile for the &quot;vs.jsonexport&quot; product."
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 

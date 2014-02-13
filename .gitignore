@@ -1,5 +1,5 @@
 *.pyc
 Paste*
-pareto.jsonexport.egg-info
+vs.jsonexport.egg-info
 dist
-pareto/jsonexport/config.py
+vs/jsonexport/config.py

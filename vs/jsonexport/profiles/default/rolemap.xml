@@ -5,7 +5,7 @@
   </roles>
   <permissions>
     <!-- -*- extra stuff goes here -*- -->
-    <permission name="pareto.jsonexport: View JSON" acquire="False">
+    <permission name="vs.jsonexport: View JSON" acquire="False">
       <role name="JSONImporter" />
       <role name="Manager" />
     </permission>

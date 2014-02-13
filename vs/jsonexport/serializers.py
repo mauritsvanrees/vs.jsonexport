@@ -11,12 +11,12 @@ import interfaces
 import html
 
 try:
-    from pareto.jsonexport.config import BASE_URL 
+    from vs.jsonexport.config import BASE_URL
 except ImportError:  
     BASE_URL = ''
 
 try:
-    from pareto.jsonexport.config import DIMENSIONS 
+    from vs.jsonexport.config import DIMENSIONS
 except ImportError:  
     DIMENSIONS = [
         'full', 'large', 'preview', 'mini', 'thumb', 'tile', 'icon', 'listing', 

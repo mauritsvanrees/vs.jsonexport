@@ -14,7 +14,7 @@ long_description = (
     open('docs/CHANGES.txt').read()
     + '\n')
 
-setup(name='pareto.jsonexport',
+setup(name='vs.jsonexport',
       version=version,
       description="Export Zope/Plone objects to JSON.",
       long_description=long_description,
@@ -29,12 +29,12 @@ setup(name='pareto.jsonexport',
         "Topic :: Software Development :: Libraries :: Python Modules",
         ],
       keywords='',
-      author='Guido Wesdorp (Pareto)',
-      author_email='guido.wesdorp@pareto.nl',
+      author='Guido Wesdorp (Virtual Sciences)',
+      author_email='guido.wesdorp@vs.nl',
       url='http://svn.plone.org/svn/collective/',
       license='gpl',
       packages=find_packages(exclude=['ez_setup']),
-      namespace_packages=['pareto', ],
+      namespace_packages=['vs', ],
       include_package_data=True,
       zip_safe=False,
       install_requires=[

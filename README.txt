@@ -1,4 +1,4 @@
-pareto.jsonexport - export Zope/Plone objects to JSON
+vs.jsonexport - export Zope/Plone objects to JSON
 =====================================================
 
 This product allows exporting Zope/Plone content as JSON. It's goal is not to
@@ -11,4 +11,4 @@ export for e.g. migration.
 Questions, remarks, etc.
 ------------------------
 
-Send mail to guido dot wesdorp at pareto dot nl
+Send mail to guido dot wesdorp at vs dot nl

@@ -2,17 +2,17 @@
     xmlns="http://namespaces.zope.org/zope"
     xmlns:browser="http://namespaces.zope.org/browser"
     xmlns:five="http://namespaces.zope.org/five"
-    i18n_domain="pareto.uidfixer">
+    i18n_domain="vs.uidfixer">
 
   <permission
-      id="pareto.jsonexport.ViewJSON"
-      title="pareto.jsonexport: View JSON" />
+      id="vs.jsonexport.ViewJSON"
+      title="vs.jsonexport: View JSON" />
 
   <browser:page
       name="json_export"
       for="*"
       class=".views.JsonView"
-      permission="pareto.jsonexport.ViewJSON"
+      permission="vs.jsonexport.ViewJSON"
       />
 
 </configure>

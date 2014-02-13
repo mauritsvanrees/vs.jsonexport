@@ -1,4 +1,4 @@
-Pareto JSON export
+Virtual Sciences JSON export
 ==================
 
 This product allows exporting a partial or full Plone instance to JSON. It is
@@ -36,4 +36,4 @@ recursively.
 Questions, remarks, etc.
 ------------------------
 
-Mail guido.wesdorp@pareto.nl or johnnydebris@gmail.com.
+Mail guido.wesdorp@vs.nl or johnnydebris@gmail.com.

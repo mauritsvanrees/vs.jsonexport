@@ -79,8 +79,8 @@ class SerializersLayer(PloneSandboxLayer):
     defaultBases = (PLONE_INTEGRATION_TESTING,)
 
     def setUpZope(self, app, configurationContext):
-        import pareto.jsonexport
-        self.loadZCML('serializers.zcml', package=pareto.jsonexport)
+        import vs.jsonexport
+        self.loadZCML('serializers.zcml', package=vs.jsonexport)
 
 
 class SerializersTestCase(TestCase):
