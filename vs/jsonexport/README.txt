@@ -32,8 +32,3 @@ will export the data of the 'Plone' object, but no more. Passing the
 
 will export the 'Plone' object's data, and that of all its children,
 recursively.
-
-Questions, remarks, etc.
-------------------------
-
-Mail guido.wesdorp@vs.nl or johnnydebris@gmail.com.

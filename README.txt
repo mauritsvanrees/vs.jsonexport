@@ -7,8 +7,3 @@ interesting to expose (no special metadata, no portlets, workflow state,
 etc.). The goal of this is to expose a specific set of data as JSON for
 displaying Plone content from another application, not to generate a full
 export for e.g. migration.
-
-Questions, remarks, etc.
-------------------------
-
-Send mail to guido dot wesdorp at vs dot nl

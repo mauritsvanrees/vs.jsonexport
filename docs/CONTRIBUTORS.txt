@@ -1,5 +1,5 @@
 Contributors
 ============
 
-All code is written and maintained by Guido Wesdorp for Virtual Sciences
-(mailto:guido.wesdorp@vs.nl).
+All code is written and maintained by THijs for Virtual Sciences
+(mailto:thijs.jonkman@virtualsciences.nl).
